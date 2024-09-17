@@ -166,6 +166,7 @@ header {
   -webkit-box-shadow: var(--light-shadow);
   -moz-box-shadow: var(--light-shadow);
   box-shadow: var(--light-shadow);
+  position: fixed;
 }
 header .container {
   display: flex;
